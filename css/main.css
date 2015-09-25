@@ -1,0 +1,65 @@
+body {
+	font-family: Verdana, sans-serif;
+	width: 1024px;
+}
+
+/* text */
+h1,
+p,
+ul {
+	color: #666;
+}
+
+p, ul {
+	font-size: 16px;
+	line-height: 32px;
+}
+
+h1 {
+	position: relative;
+	text-align: center;
+	font-size: 48px;
+	padding: 13px;
+	top: 12px;
+}
+
+h2 {
+	color: #f07c17;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+/* main section */
+.main-heading {
+	position: relative;
+	top: -2px;
+	margin-bottom: 28px;
+}
+
+/* image styles */
+.mug {
+	position: relative;
+	top: 20px;
+	height: 373px;
+	border: 1px solid red;
+}
+
+/* list of main features */
+
+.features {
+	border: 1px solid #ccc;
+	margin-top: 50px;
+	height: 224px;
+}
+
+.features-heading {
+	position: relative;
+	top: 10px;
+	left: 30px;
+}
+
+.features-list {
+	position: relative;
+	left: 40px;
+	padding: 30px;
+}
